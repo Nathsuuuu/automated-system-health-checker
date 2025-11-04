@@ -29,9 +29,3 @@ This tool helps you:
 
 ---
 
-## 🛠️ Installation
-
-1. **Clone the repository**  
-```bash
-git clone https://github.com/Nathsuuuu/automated-system-health-checker.git
-cd automated-system-health-checker
